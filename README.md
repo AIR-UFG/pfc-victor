@@ -4,4 +4,4 @@ A ideia inicial do projeto é uma pesquisa na área de análise de dados e estat
 > Título: *
 
 ## Revisão bibliográfica
-Artigos que possuírem pdf estarão na pasta artigos e serão indicados pelo emoji  ':bookmark_tabs:'
+Artigos que possuírem pdf estarão na pasta [artigos](./artigos) e serão indicados pelo emoji  ':bookmark_tabs:'
