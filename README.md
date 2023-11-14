@@ -19,6 +19,8 @@ Artigos que possuírem pdf estarão na pasta [artigos](./artigos) e serão indic
   
 3. Information theory and player archetype choice in Hearthstone (2020)
    - Link para o artigo: [https://www.sciencedirect.com/science/article/pii/S0020025521001043](https://www.sciencedirect.com/science/article/pii/S0020025521001043)
+   - _Leitura em andamento_
   
-4. Sports analytics for balanced team-building decisions ()
+4. Sports analytics for balanced team-building decisions (2021)
    - Link para o artigo: [https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118634](https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118634)
+   - _Leitura em andamento_
