@@ -16,3 +16,9 @@ Artigos que possuírem pdf estarão na pasta [artigos](./artigos) e serão indic
 2. Looking for archetypes: Applying game data mining to hearthstone decks (2022) [:bookmark_tabs:](./artigos/Applying-game-data-mining-to-hearthstone-decks.pdf)
    - Link para o artigo: [https://www.sciencedirect.com/science/article/abs/pii/S1875952122000222](https://www.sciencedirect.com/science/article/abs/pii/S1875952122000222)
    - O artigo se propõe a usar a análise de arquétipos para identificar bons decks já existentes e com isso ver como as classes de carta de relacionam a fim de montar o deck ideal. Aqui serão utilizadas técnicas de clusterização (k-Means e agrupamento hierárquico) para identificar os grupos em que determinadas cartas se encaixam, como propósito final o entedimento melhor do funcionamento do jogo e o artigo também diz que a análise ajuda no desenvolvimento de agentes inteligentes para jogos de cartas e em tomadas de decisão em tempo real.
+  
+3. Information theory and player archetype choice in Hearthstone (2020)
+   - Link para o artigo: [https://www.sciencedirect.com/science/article/pii/S0020025521001043](https://www.sciencedirect.com/science/article/pii/S0020025521001043)
+  
+4. Sports analytics for balanced team-building decisions ()
+   - Link para o artigo: [https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118634](https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118634)
