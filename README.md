@@ -24,3 +24,14 @@ Artigos que possuírem pdf estarão na pasta [artigos](./artigos) e serão indic
 4. Sports analytics for balanced team-building decisions (2021)
    - Link para o artigo: [https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118634](https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118634)
    - _Leitura em andamento_
+
+5. A Survey on Applications of Modern Deep Learning Techniques in Team Sports Analytics (2021)
+   - Link para o artigo: [https://www.researchgate.net/publication/350910169_A_Survey_on_Applications_of_Modern_Deep_Learning_Techniques_in_Team_Sports_Analytics](https://www.researchgate.net/publication/350910169_A_Survey_on_Applications_of_Modern_Deep_Learning_Techniques_in_Team_Sports_Analytics)
+   - _Leitura pendente_
+
+6. [BLOG] A Survey of Sports Analytics (2021)
+   - Link para o artigo: [https://gabs-rol43.medium.com/a-survey-of-sports-analytics-2254f1d9a933](https://gabs-rol43.medium.com/a-survey-of-sports-analytics-2254f1d9a933)
+   - _Leitura pendente_
+
+
+
