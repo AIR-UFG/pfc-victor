@@ -31,7 +31,7 @@ Artigos que possuírem pdf estarão na pasta [artigos](./artigos) e serão indic
 
 6. [BLOG] A Survey of Sports Analytics (2021)
    - Link para o artigo: [https://gabs-rol43.medium.com/a-survey-of-sports-analytics-2254f1d9a933](https://gabs-rol43.medium.com/a-survey-of-sports-analytics-2254f1d9a933)
-   - _Leitura pendente_
+   - Este survey diz sobre a importância do 'sports analytics' para grandes times atualmente e mostra a ideia geral sobre como conseguem 'fazer _analytics_', classificando em trẽs pontos principais: aquisição de dados, enriquecimento de dados e análise. O primeiro ponto se refere a como os times conseguem os dados, as principais estratégias são: coletar o movimento dos atletas (por sensores ou algoritmos que identificam via video), identificar eventos (algoritmos que definem a partida como sequência de eventos, por exemplo gol, falta, tiro de meta no futebol) ou dados descritivos (estatísticas individuais/coletivas).Já o enriquecimento de dados é apresentado como estratégias que visam dar um siginificado a mais para os dados coletados e assim melhorar a performance do time, técnicas para visualização de dados, análises espaço temporais, zonas de conflito (baseando em dados de movimento identificar zonas congestionadas e espaços livres) e _expected values_  (uma métrica que tenta definir o valor esperado de uma determinada ação de um atleta em determinado tempo). Por fim, o terceiro ponto é a interpretação dos dados, identificar falhas em regras, entender a evolução do jogo e transmitir para o time a ideia e importância dos dados.
 
 
 
