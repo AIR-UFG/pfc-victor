@@ -21,3 +21,8 @@ requires a competitive Artificial Intelligence. Due to the limited availability 
 models for a card game like Truco is a challenging task. To approach this problem, this work investigates the generation of concrete Truco problem-solving experiences through alternative techniques of
 automatic case generation and active learning, aiming to learn with the retention of cases in case bases. From this, these case bases guide the playing actions of the implemented Truco bots
 permitting to assess the capabilities of each bot, all implemented with Case-Based Reasoning (CBR) techniques.
+
+5) _Solving Coup as an MDP/POMDP_ :We modeled the card game Coup as a Markov Decision Process and attempted to solve it using various methods learned in CS238. Due to our large state space, we focused on online methods. Since Coup is a multi-agent game we generated optimal policies against players with specific strategies. We first modeled the game as an MDP where we knew everything about the game state and
+developed policies against a player doing random actions. We used forward search, sparse sampling, and monte carlo tree search. We then modeled the game as a POMDP with state uncertainty where we did not
+know our opponents cards. We implemented Monte Carlo Tree Search, sparse sampling and forward search with both incomplete and complete information. Finally, to try and beat our Monte Carlo Tree Search
+player, we implemented Forward Search with Discrete State Filtering for updating our belief.
